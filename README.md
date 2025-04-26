@@ -33,10 +33,9 @@ The dashboard provides interactive visualizations that help stakeholders make in
 
 ## 📸 Dashboard Preview
 
-
-> ![Loan Approval Overview](images/loan_approval_dashboard.png)
-
-> ![Customer Segmentation Analysis](images/customer_segmentation_dashboard.png)
+![image](https://github.com/user-attachments/assets/3b643a29-54b5-4787-a548-0866ff8770ac)
+![image](https://github.com/user-attachments/assets/d8d7432b-9d5f-4562-b110-6294f8138ef2)
+![image](https://github.com/user-attachments/assets/ae1e51bc-c83d-4aaa-aab6-1b5a3f8c516f)
 
 
 ## 📈 Business Questions Answered
